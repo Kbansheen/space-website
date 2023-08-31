@@ -1,0 +1,112 @@
+body{
+  background-image: url('images/background-home-desktop.jpg');
+
+
+}
+
+#title{
+
+}
+
+
+.title-container
+{
+  padding: 0px 0px;
+}
+
+.navbar
+{
+
+    padding-right: 0rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0;
+  margin-top: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  position:fixed;
+
+
+}
+
+.navbar-nav
+{
+  backdrop-filter: blur(10px);
+    box-shadow: 10px 10px 30px 10px ;
+    padding-left: 1.8rem;
+    padding-top: 0.2rem;
+}
+
+.navbar-brand
+{
+  font-size: 2.8rem;
+  margin-left: 100px;
+}
+
+.nav-item
+{
+  margin: auto 18px 10px ;
+
+
+}
+
+.tech
+{
+  margin-right: 90px;
+}
+
+.home{
+
+  border-bottom: solid white;
+  border-bottom-width: 3.1px;
+
+}
+
+.nav-link
+{
+  font-size: 1.1rem;
+    font-family: "Ubuntu";
+  font-weight: 100;
+  font-weight: bold;
+  color: white;
+}
+
+p
+{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: lighter;
+}
+h1
+{
+  font-family: "Montserrat", sans-serif;
+  font-size: 6rem;
+  color: white;
+  font-weight: 100;
+}
+.p1{
+
+}
+
+.middle-container
+{
+  padding: 20% 15% 9% ;
+}
+
+.new
+{
+  margin-left: 250px;
+  padding-left: 60px;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+.holder
+{
+  font-weight: 400;
+  font-size: 30px;
+}

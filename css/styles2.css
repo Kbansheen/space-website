@@ -1,0 +1,191 @@
+body{
+  background-image: url('images/background-destination-desktop.jpg');
+}
+
+.heading{
+  padding-top: 140px;
+  padding-left: 170px;
+  font-weight: lighter;
+  color: white;
+}
+h4
+{
+  font-weight: lighter;
+}
+
+img
+{
+  border-radius: 2px;
+  width: 370px;
+    radius: 50%;
+
+
+  padding-top: 0px;
+
+  padding-left: 50px;
+}
+.title-container
+{
+  padding: 0px 0px;
+}
+
+.navbar
+{
+  padding-right: 0rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0;
+  margin-top: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+
+  position:fixed;
+}
+
+.mid-nav
+{
+  padding-right: 20rem;
+  padding-left: 5rem;
+height: 60px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  position: sticky;
+
+}
+.mid-item
+{
+  padding-bottom: 5.5rem;
+}
+
+.everest
+{
+  padding-top: 5px;
+  padding-right: 60px;
+line-height: 2rem;
+  font-size: 1.1rem;
+  color: white;
+  width: 40%;
+
+}
+
+.MARS{
+  font-size: 5rem;
+  padding-top: 0px;
+
+
+
+}
+.boots{
+  padding-top: 2rem;
+
+}
+hr{
+
+  margin-top: 50px;
+}
+
+
+.destination
+{
+  border-bottom: solid white;
+  border-bottom-width: 3.1px;
+}
+.title-nav
+{
+  backdrop-filter: blur(10px);
+    box-shadow: 10px 10px 30px 15px ;
+    padding-left: 1.8rem;
+    padding-top: 0.2rem;
+}
+
+
+.navbar-brand
+{
+  font-size: 2.8rem;
+  margin-left: 100px;
+}
+
+.nav-item
+{
+  margin: auto 18px 10px ;
+}
+
+.mars{
+  padding-bottom: 4px;
+
+  border-bottom: solid  ;
+  font-size: 0.8rem;
+font-weight: 50;
+  font-weight:lighter;
+}
+
+.bansh
+{
+  padding-top: 25px;
+}
+
+.tech
+{
+  margin-right: 90px;
+}
+
+.nav-link
+{
+  font-size: 1.1rem;
+    font-family: "Ubuntu";
+  font-weight: 100;
+  font-weight: bold;
+  color: white;
+}
+.mid-link
+{
+  font-size: 0.8rem;
+font-weight: 50;
+  font-weight:lighter;
+}
+
+.middle-container
+{
+    padding: 0% 0% 9% ;
+
+}
+.im-mars
+{
+  text-align: center;
+
+  padding-top: 0px;
+  height: 400px;
+  position: relative;
+  bottom: 2rem;
+
+
+}
+.bottom
+{
+  color:white;
+
+  padding-left: 20%;
+  padding-top: 0px;
+
+
+  text-align: right;
+}
+.bottom-container
+{
+  width: 50%;
+  margin-right: 250px;
+  margin-top: -250px;
+  height: 10px;;
+}
+.mil{
+padding-right: 10px;
+}
+.mon
+{
+  padding-right: 20px;
+}
